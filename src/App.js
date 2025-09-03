@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <p>Bienvenido a Clinica San Pedro</p>
-      <h1>En Atencion a su salud somos su mejor Opcion</h1>
+      <h1>"En atención a su salud, somos su mejor opción."</h1>
     </div>
   );
 }
