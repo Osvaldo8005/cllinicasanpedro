@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cllinicasanpedro/static/css/main.dc4d6ff2.css",
-    "main.js": "/cllinicasanpedro/static/js/main.111f6139.js",
+    "main.js": "/cllinicasanpedro/static/js/main.bcf1a462.js",
     "index.html": "/cllinicasanpedro/index.html",
     "main.dc4d6ff2.css.map": "/cllinicasanpedro/static/css/main.dc4d6ff2.css.map",
-    "main.111f6139.js.map": "/cllinicasanpedro/static/js/main.111f6139.js.map"
+    "main.bcf1a462.js.map": "/cllinicasanpedro/static/js/main.bcf1a462.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.111f6139.js"
+    "static/js/main.bcf1a462.js"
   ]
 }
